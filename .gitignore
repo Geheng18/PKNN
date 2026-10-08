@@ -1,0 +1,22 @@
+# genotype data is not redistributable (UK Biobank, ADNI)
+data/sim*/
+data/UKB/
+realdata/
+*.bed
+*.bim
+*.fam
+*.h5Seurat
+Sim_*.Rdata
+Phe_*.txt
+
+# cluster artefacts
+logs/
+tmp/
+Rlib/
+slurm-*.out
+.Rhistory
+.RData
+Rplots.pdf
+
+# macOS
+.DS_Store

@@ -1,0 +1,3 @@
+"rep","method","mse","cor","secs","ok","msg"
+1,"hierNet",NA,NA,23.1934111118317,FALSE,"long vectors (argument 4) are not supported in .C"
+2,"hierNet",NA,NA,22.7029330730438,FALSE,"long vectors (argument 4) are not supported in .C"

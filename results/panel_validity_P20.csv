@@ -1,0 +1,145 @@
+"figure","panel","metric","method","n_total","n_usable"
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Linear","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Linear","MSE","GMM",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Linear","MSE","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Linear","MSE","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Linear","MSE","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Cosh","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Cosh","MSE","GMM",500,19
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Cosh","MSE","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Cosh","MSE","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Cosh","MSE","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Square","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Square","MSE","GMM",500,30
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Square","MSE","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Square","MSE","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Square","MSE","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Hyperbola","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Hyperbola","MSE","GMM",500,34
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Hyperbola","MSE","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Hyperbola","MSE","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Hyperbola","MSE","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Rickercurve","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Rickercurve","MSE","GMM",500,15
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Rickercurve","MSE","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Rickercurve","MSE","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","Rickercurve","MSE","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","GMM",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","GMM",500,19
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","GMM",500,30
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","GMM",500,34
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","GMM",500,15
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_nonlinear_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold within Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold within Genes","MSE","GMM",500,221
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold within Genes","MSE","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold within Genes","MSE","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold within Genes","MSE","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative within Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative within Genes","MSE","GMM",500,126
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative within Genes","MSE","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative within Genes","MSE","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative within Genes","MSE","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold between Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold between Genes","MSE","GMM",500,70
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold between Genes","MSE","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold between Genes","MSE","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Threshold between Genes","MSE","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative between Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative between Genes","MSE","GMM",500,23
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative between Genes","MSE","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative between Genes","MSE","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","Multiplicative between Genes","MSE","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","GMM",500,221
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","GMM",500,126
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","GMM",500,70
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","GMM",500,23
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","BLUP",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","LDpred2",500,500
+"sim_h2_0.5_interaction_baselines_P20.pdf","","COR","hierNet",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Linear","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Linear","MSE","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Linear","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Cosh","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Cosh","MSE","NUMERICAL-MINQUE-LASSO",500,412
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Cosh","MSE","NUMERICAL-MINQUE-ELASTICNET",500,435
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Square","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Square","MSE","NUMERICAL-MINQUE-LASSO",500,496
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Square","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Hyperbola","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Hyperbola","MSE","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Hyperbola","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Rickercurve","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Rickercurve","MSE","NUMERICAL-MINQUE-LASSO",500,463
+"sim_h2_0.5_nonlinear_minque_P20.pdf","Rickercurve","MSE","NUMERICAL-MINQUE-ELASTICNET",500,479
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,412
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,435
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,496
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,463
+"sim_h2_0.5_nonlinear_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,479
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold within Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold within Genes","MSE","NUMERICAL-MINQUE-LASSO",500,499
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold within Genes","MSE","NUMERICAL-MINQUE-ELASTICNET",500,498
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative within Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative within Genes","MSE","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative within Genes","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold between Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold between Genes","MSE","NUMERICAL-MINQUE-LASSO",500,498
+"sim_h2_0.5_interaction_minque_P20.pdf","Threshold between Genes","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative between Genes","MSE","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative between Genes","MSE","NUMERICAL-MINQUE-LASSO",500,499
+"sim_h2_0.5_interaction_minque_P20.pdf","Multiplicative between Genes","MSE","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,499
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,498
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,498
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","CLOSEFORM-MINQUE-RIDGE",500,500
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-LASSO",500,499
+"sim_h2_0.5_interaction_minque_P20.pdf","","COR","NUMERICAL-MINQUE-ELASTICNET",500,500

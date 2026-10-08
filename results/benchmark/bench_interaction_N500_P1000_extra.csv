@@ -1,0 +1,13 @@
+"basis","N","nSNP","rep","method","secs","peakMB","cor","ok","msg"
+"interaction",500,1000,1,"NUM-MINQUE-ENET",3.94828176498413,1437.3,NA,TRUE,NA
+"interaction",500,1000,1,"BLUP",0.303239583969116,427.8,0.222047901523763,TRUE,NA
+"interaction",500,1000,1,"LDpred2",5.36131834983826,866,0.22858373764558,TRUE,NA
+"interaction",500,1000,1,"hierNet",NA,NA,NA,FALSE,"infeasible: p=10000 exceeds the 32-bit .C limit"
+"interaction",500,1000,2,"NUM-MINQUE-ENET",3.40576672554016,1508.1,NA,TRUE,NA
+"interaction",500,1000,2,"BLUP",0.268563747406006,671.2,-0.0543625373564601,TRUE,NA
+"interaction",500,1000,2,"LDpred2",4.68947076797485,1302.8,-0.017839997405243,TRUE,NA
+"interaction",500,1000,2,"hierNet",NA,NA,NA,FALSE,"infeasible: p=10000 exceeds the 32-bit .C limit"
+"interaction",500,1000,3,"NUM-MINQUE-ENET",2.96435689926147,1652.8,NA,TRUE,NA
+"interaction",500,1000,3,"BLUP",0.266990184783936,671.1,-0.081203850282925,TRUE,NA
+"interaction",500,1000,3,"LDpred2",4.89817953109741,1178.2,-0.138320788215191,TRUE,NA
+"interaction",500,1000,3,"hierNet",NA,NA,NA,FALSE,"infeasible: p=10000 exceeds the 32-bit .C limit"
